@@ -1,0 +1,25 @@
+/*Mobile and Tablets*/
+@media(max-width:767px)
+{
+	.month {
+		margin: 20px auto;
+	}
+}
+
+/*Small*/
+@media(min-width:768px) and (max-width:991px)
+{
+
+}
+
+/*Mediunm*/
+@media(min-width:992px) and (max-width:1199px)
+{
+
+}
+
+/*Large*/
+@media(min-width:1200px)
+{
+
+}
